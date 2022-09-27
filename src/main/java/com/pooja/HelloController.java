@@ -13,7 +13,7 @@ public class HelloController {
     
     @RequestMapping("/test")
     String hello1() {
-        return "codepipeline with docker and ecr is working fine";
+        return "2nd container is working fine......";
     }
 
 
